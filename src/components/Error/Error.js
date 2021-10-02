@@ -7,7 +7,7 @@ const Error = () => {
   return (
     <div className="error-bg">
       <MenuBar></MenuBar>
-      <h1 className="text-danger mt-5">Cant found error 404 !!!</h1>
+      <h1 className="text-danger mt-5">Can't found error 404 !!!</h1>
     </div>
   );
 };
